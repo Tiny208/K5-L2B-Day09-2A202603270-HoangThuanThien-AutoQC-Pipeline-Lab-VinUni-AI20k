@@ -1,0 +1,18 @@
+{
+  "verdict": {
+    "decision": "Hold",
+    "n_errors": 0,
+    "n_warn_images": 38,
+    "n_images": 203,
+    "warn_ratio": 0.1872,
+    "reasons": [
+      "Tỉ lệ ảnh có cảnh báo 18.72% (38/203 ảnh) đạt hoặc vượt ngưỡng cho phép 10.00% (Hold)"
+    ]
+  },
+  "reviewed": 80,
+  "budget": 80,
+  "seconds": 3.2,
+  "exported": "/Users/admin/Documents/antigravity/BaiTapVinAI/K5-L2B-Day09-2A202603270-HoangThuanThien-AutoQC-Pipeline-Lab-template_owner-VinUni-AI20k/submission/export/clean_v1",
+  "config_sha1": "8c7f11f4d9d8ad21611fedd04d79e26eeacc97b9",
+  "review_sim_sha1": "7988ca22827f780a7043a2300490e679a1697154"
+}
